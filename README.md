@@ -1,1 +1,2 @@
-# gambling.py
+# Starting with Roulette
+# Adding Black Jack next
