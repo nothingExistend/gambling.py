@@ -1,2 +1,2 @@
-# Starting with Roulette
-# Adding Black Jack next
+* Starting with Roulette
+* Adding Black Jack next
